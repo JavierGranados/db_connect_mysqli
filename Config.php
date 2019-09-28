@@ -1,0 +1,6 @@
+<?php
+#VARIABLES DE CONEXION
+define('HOST', 'TU_HOST');
+define('DBNAME','TU_BASE_DE_DATOS');
+define('USER','TU_USUARIO');
+define('PASSWORD','TU_CONTRASEÑA');
